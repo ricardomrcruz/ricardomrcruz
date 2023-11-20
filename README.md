@@ -1,16 +1,19 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Web+developer+and+UX+UI+Designer)](https://git.io/typing-svg)
 
-<!--
-**ricardomrcruz/ricardomrcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img width="45%" align="right" alt="Github" style="margin-left: 10px" src="https://media.tenor.com/27Svs8e4rj4AAAAC/typing-monkey.gif">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+- 🔭 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Web Developer.
+
+- 🌱 I have a solid experience with tech stacks like Nodejs React Nextjs but also PHP MySQL, Wordpress and Prestashop.
+
+- 📝 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
+
+- 🤝 I’m always available for freelancing and collab ideas.
+
+- 📄 Feel free to check out my personal website [strasbouwegwebsolutions.fr](https://strasbourgwebsolutions.fr)
+
+- 📫 How to reach me **strasbourgwebsolutions@gmail.com**
