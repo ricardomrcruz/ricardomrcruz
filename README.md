@@ -12,6 +12,6 @@
 
 - 🌇 I’m always available for freelancing and collab ideas. Working RN on a openAI automation personal project. 
 
-- 🌊 Feel free to check out my personal website [strasbourgwegwebsolutions.fr](https://strasbourgwebsolutions.fr)
+- 🌊 Feel free to check out my personal website [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
