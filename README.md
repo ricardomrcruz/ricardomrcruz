@@ -4,14 +4,14 @@
 
 
 
-- 🔭 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Web Developer.
+- 🌿 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Web Developer.
 
-- 🌱 I have solid experience with tech stacks like React Nextjs but also PHP MySQL, WordPress and Prestashop.
+- 🖥️ I have solid experience with tech stacks like React Nextjs but also PHP MySQL, WordPress and Prestashop.
 
-- 📝 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
+- 🎓 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
 
-- 🤝 I’m always available for freelancing and collab ideas. Working RN on a openAI automation personal project. 
+- 🌇 I’m always available for freelancing and collab ideas. Working RN on a openAI automation personal project. 
 
-- 📄 Feel free to check out my personal website [strasbouwegwebsolutions.fr](https://strasbourgwebsolutions.fr)
+- 🌊 Feel free to check out my personal website [strasbouwegwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
