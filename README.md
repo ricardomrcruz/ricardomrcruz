@@ -4,8 +4,6 @@
 
 
 
- 
-
 - 🔭 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Web Developer.
 
 - 🌱 I have solid experience with tech stacks like React Nextjs but also PHP MySQL, WordPress and Prestashop.
