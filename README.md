@@ -2,13 +2,13 @@
 
  <img width="45%" align="right" alt="Github" style="margin-left: 10px" src="https://media.tenor.com/27Svs8e4rj4AAAAC/typing-monkey.gif">
 
-- 🌿 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Web Developer.
+- 🌿 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Developer.
 
-- 🖥️ I have solid experience with tech stacks using Nodejs React Nextjs but also PHP MySQL, WordPress and Prestashop.
+- 🖥️ I have solid experience with Nodejs stacks like React Nextjs but also PHP frameworks like Symfony and WP servers.
 
 - 🎓 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
 
-- 🌇 I’m always available to freelancing and collab ideas. Working RN on a openAI automation personal project. 
+- 🌇 I’m always available to freelancing and collab ideas. Currently working on Golang Side-Projects. 
 
 - 🌊 Feel free to check out my personal website [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
