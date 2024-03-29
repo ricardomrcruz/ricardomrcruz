@@ -13,3 +13,5 @@
 - 🌊 Feel free to check out my personal website [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
+
+![Visitor Count](https://profile-counter.glitch.me/ricardomrcruz/count.svg)
