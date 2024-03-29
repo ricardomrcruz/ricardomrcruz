@@ -14,4 +14,4 @@
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
