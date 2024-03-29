@@ -8,7 +8,7 @@
 
 - 🎓 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
 
-- 🌇 I’m always available to freelancing and collab ideas. Currently working on Golang Side-Projects. 
+- 🌇 I’m always available to freelancing and collab ideas. Currently working on a Golang side project. 
 
 - 🌊 Feel free to check out my personal website [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
