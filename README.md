@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Web+developer+and+UX+UI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Software+developer+and+UX+UI+Designer)](https://git.io/typing-svg)
 
  <img width="45%" align="right" alt="Github" style="margin-left: 10px" src="https://media.tenor.com/27Svs8e4rj4AAAAC/typing-monkey.gif">
 
