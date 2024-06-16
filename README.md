@@ -14,4 +14,6 @@
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomrcruz)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
