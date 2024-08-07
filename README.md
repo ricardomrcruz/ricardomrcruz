@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Software+developer+and+UX+UI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Node+Python+Software+developer)](https://git.io/typing-svg)
 
  <img width="35%" align="right" alt="strasbourgwebsolutions" style="margin-left: 10px" src="https://media.tenor.com/nPd-ijwBSKQAAAAM/hacker-pc.gif">
 
