@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Software+developer+and+UX+UI+Designer)](https://git.io/typing-svg)
 
- <img width="45%" align="right" alt="Github" style="margin-left: 10px" src="https://media.tenor.com/27Svs8e4rj4AAAAC/typing-monkey.gif">
+ <img width="45%" align="right" alt="strasbourgwebsolutions" style="margin-left: 10px" src="https://media.tenor.com/nPd-ijwBSKQAAAAM/hacker-pc.gif">
 
 - 🌿 I’m currently working at Cbd'Eau SAS France as a intern Fullstack Developer.
 
