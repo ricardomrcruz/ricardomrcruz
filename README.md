@@ -2,13 +2,13 @@
 
  <img width="45%" align="right" alt="Github" style="margin-left: 10px" src="https://media.tenor.com/27Svs8e4rj4AAAAC/typing-monkey.gif">
 
-- 🌿 I’m currently working at <a href="https://cbdeau.fr" target="blank">Cbd'Eau France</a> as a intern Fullstack Developer.
+- 🌿 I’m currently working at Cbd'Eau SAS France as a intern Fullstack Developer.
 
-- 🖥️ I have solid experience with Nodejs stacks like React Nextjs but also PHP frameworks like Symfony and WP servers.
+- 🖥️ Solid experience with Nodejs APIs React Vite Svelte Nextjs stacks but also Python FastAPI, Flask and Django. 
 
 - 🎓 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
 
-- 🌇 I’m always available to freelancing and collab ideas. Currently working on a Python Svelte side project. 
+- 🌇 I’m always available to freelancing, open source and collabs. Currently working on a Python Fastapi + HTMX SAAS. 
 
 - 🌊 Feel free to check out my personal website [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
