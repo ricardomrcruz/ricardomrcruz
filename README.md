@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Node+Python+and+PHP+developer)](https://git.io/typing-svg)
 
- <img width="35%" align="right" alt="strasbourgwebsolutions" style="margin-left: 10px; border: 2px solid #333; border-radius: 8px;" src="https://github.com/user-attachments/assets/07579462-12f8-4392-8488-6f6f7db37d82">
+ <img width="35%" align="right" alt="strasbourgwebsolutions" style="margin-left: 10px; border-radius: 8px;" src="https://github.com/user-attachments/assets/07579462-12f8-4392-8488-6f6f7db37d82">
 
 - 🌿 I’m currently working at Cbd'Eau SAS France as a intern Fullstack Developer.
 
