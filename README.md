@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
 
-<br><br><br>
+<br><br>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
 
