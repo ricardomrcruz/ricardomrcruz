@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **strasbourgwebsolutions@gmail.com**
 
-<br><br>
+<br><br><br><br>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
 
-<br><br>
 
----
+
+--
 
 ### My latest articles
 - *Aug 16, 2024* - **[FastAPI as a Hypermedia Driven Application w/ HTMX & Jinja2Templates](https://medium.com/@strasbourgwebsolutions/fastapi-as-a-hypermedia-driven-application-w-htmx-jinja2templates-644c3bfa51d1)**
