@@ -2,17 +2,31 @@
 
 <img width="35%" align="right" alt="strasbourgwebsolutions" style="margin-left: 10px; border: 1px solid #e5e7eb; border-radius: 4px;" src="https://github.com/user-attachments/assets/07579462-12f8-4392-8488-6f6f7db37d82">
 
-- 🌿 I’m currently working at Cbd'Eau SAS France as a intern Fullstack Developer.
+Application developer passionate about creating software solutions with 3-4 years of experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
 
-- 🖥️ Solid experience with Nodejs APIs React Vite Svelte Nextjs stacks but also Python FastAPI, Flask and Django. 
+🌱 Currently interning as a Fullstack Developer at Cbd'Eau SAS, France
 
-- 🎓 I'm currently finishing my bachelors with WildCodeSchool France as a Fullstack Application Developer.
+### Core Tech Stack:
+- Frontend: React, Next.js, Svelte, HTML, CSS, TailwindCSS
+- Backend: Node.js (Express), Python (FastAPI, Django), PHP (Symfony)
+- Databases: PostgreSQL, MongoDB
+- API: RESTful, GraphQL
+- DevOps: Git, GitHub Actions, Docker
+- Testing: Jest, Playwright
 
-- 🌇 I’m always available to freelancing, open source and collabs. Currently working on a Python Fastapi + HTMX SAAS. 
+### Additional Skills:
+- Cloud: GCP (Google Cloud Platform)
+- Authentication: OAuth, JWT
+- AI Integration: OpenAI API
 
-- 🌊 Feel free to check out my personal website [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
+🎓 Finishing Bachelor's in Fullstack Application Development - Software Developer at WildCodeSchool France
 
-- 📫 How to reach me **strasbourgwebsolutions@gmail.com**
+🔧 Current Project: Developing a Python FastAPI + HTMX SaaS solution
+
+🤝 Open for freelance opportunities, open source contributions, and innovative collaborations
+
+📧 strasbourgwebsolutions@gmail.com
+🌐 [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
 <br><br>
 
