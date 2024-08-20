@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!+I'm+Ricardo+Martinho;Node+Python+and+PHP+developer)](https://git.io/typing-svg)
 
-<img width="35%" align="right" alt="strasbourgwebsolutions" style="margin-left: 10px; border: 1px solid #e5e7eb; border-radius: 4px;" src="https://github.com/user-attachments/assets/07579462-12f8-4392-8488-6f6f7db37d82">
-
 Application developer passionate about creating software solutions with 3-4 years of experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
 
 🌱 Currently interning as a Fullstack Developer at Cbd'Eau SAS, France
