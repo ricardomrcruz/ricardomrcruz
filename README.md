@@ -14,10 +14,8 @@ Application developer passionate about creating software solutions with 3-4 year
 - DevOps: Git, GitHub Actions, Docker
 - Testing: Jest, Playwright
 
-### Additional Skills:
 - Cloud: GCP (Google Cloud Platform)
 - Authentication: OAuth, JWT
-- AI Integration: OpenAI API
 
 🎓 Finishing Bachelor's in Fullstack Application Development - Software Developer at WildCodeSchool France
 
