@@ -21,7 +21,7 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 - Frontend: React, Next.js, Svelte, HTMX, HTML, CSS, TailwindCSS
 - Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (Symfony, MySQL)
 - Databases: PostgreSQL, MongoDB, SQLAlchemy, SQLModel, Pydantic
-- API: RESTful, GraphQL, Hypermedia
+- API: RESTful, GraphQL, HATEOAS
 - DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx
 
 🎓 Finishing Bachelor's in Fullstack Application Development - Software Developer at WildCodeSchool France
