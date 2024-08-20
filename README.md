@@ -13,7 +13,7 @@
 
 <br>
 
-Application developer passionate about creating software solutions with 3-4 years of experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
+Software developer with solid experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
 
 🌱 Currently interning as a Fullstack Developer at Cbd'Eau SAS, France
 
