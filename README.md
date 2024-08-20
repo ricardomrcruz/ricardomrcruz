@@ -20,8 +20,6 @@ Application developer passionate about creating software solutions with 3-4 year
 📧 strasbourgwebsolutions@gmail.com
 🌐 [strasbourgwebsolutions.fr](https://strasbourgwebsolutions.fr)
 
-<br><br>
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
 
 ### My latest articles
