@@ -10,10 +10,6 @@ Application developer passionate about creating software solutions with 3-4 year
 - Databases: PostgreSQL, MongoDB
 - API: RESTful, GraphQL
 - DevOps: Git, GitHub Actions, Docker
-- Testing: Jest, Playwright
-
-- Cloud: GCP (Google Cloud Platform)
-- Authentication: OAuth, JWT
 
 🎓 Finishing Bachelor's in Fullstack Application Development - Software Developer at WildCodeSchool France
 
