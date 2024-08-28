@@ -19,7 +19,7 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 
 ### Core Tech Stack:
 - Frontend: React, Next.js, Svelte, HTMX, HTML, CSS, TailwindCSS
-- Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (Symfony, MySQL)
+- Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (MySQL)
 - Databases: PostgreSQL, MongoDB, SQLAlchemy, SQLModel, Pydantic
 - API: RESTful, GraphQL, HATEOAS
 - DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx
