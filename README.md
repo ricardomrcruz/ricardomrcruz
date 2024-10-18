@@ -11,6 +11,8 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <div style="display: inline-flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
