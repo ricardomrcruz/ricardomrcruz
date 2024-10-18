@@ -19,12 +19,14 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40" alt="FastAPI" />
+<div align="center">
+  <div style="display: inline-flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40" alt="FastAPI" />
+  </div>
 </div>
 
 
