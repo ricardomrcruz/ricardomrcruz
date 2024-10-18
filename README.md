@@ -11,14 +11,6 @@
   </a>
 </div>
 
-<br>
-
-Software developer with solid experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
-
-🌱 Currently available for permanent or temporary positions as a Fullstack Developer or Software Engineer Intern
-
-<br>
-
 <div align="center">
   <div style="display: inline-flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
@@ -29,7 +21,11 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
   </div>
 </div>
 
+<br>
 
+Software developer with solid experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
+
+🌱 Currently available for permanent or temporary positions as a Fullstack Developer or Software Engineer Intern
 
 ### Core Tech Stack:
 - Languages: Typescript, Javascript, Python, PHP
