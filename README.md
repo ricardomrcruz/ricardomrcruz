@@ -15,14 +15,15 @@
 
 Software developer with solid experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
 
-🌱 Currently interning as a Fullstack Developer at Cbd'Eau SAS, France
+🌱 Currently available for permanent or temporary positions as a Fullstack Developer or Software Engineer Intern
 
 ### Core Tech Stack:
+- Languages: Typescript, Javascript, Python, PHP
 - Frontend: React, Next.js, Svelte, HTMX, HTML, CSS, TailwindCSS
-- Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (OOP, MySql, Wordpress)
-- Databases: PostgreSQL, MongoDB, SQLAlchemy, SQLModel, Pydantic
-- API: RESTful, GraphQL, HATEOAS
-- DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx
+- Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (OOP, MySql, Wordpress, Symfony)
+- Data Structures: PostgreSQL, MongoDB, TypeORM, Prisma, SQLAlchemy, SQLModel, Pydantic
+- API: RESTful, GraphQL, HATEOAS, Hypermedia Driven
+- DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx, Caddy
 
 🎓 Finishing Bachelor's in Fullstack Application Development - Software Developer at WildCodeSchool France
 
