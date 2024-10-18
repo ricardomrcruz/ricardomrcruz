@@ -27,7 +27,7 @@
 
 Software developer with solid experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
 
-🌱 Currently available for permanent or temporary positions as a Fullstack Developer or Software Engineer Intern
+🌱 Currently available for permanent or temporary positions as a Fullstack Developer or a opportunity as a Software Engineer Intern
 
 ### Core Tech Stack:
 - Languages: Typescript, Javascript, Python, PHP
@@ -41,7 +41,6 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 
 🔧 Current Project: 
 -Developing a Python FastAPI + HTMX SaaS solution 
--Building a HTMX UI OpenSource UI library [GALAXY UI](https://ricardomrcruz.github.io/Galaxy_UI/)
 
 🤝 Open for freelance opportunities, open source contributions, and innovative collaborations
 📧 strasbourgwebsolutions@gmail.com
