@@ -17,6 +17,32 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 
 🌱 Currently available for permanent or temporary positions as a Fullstack Developer or Software Engineer Intern
 
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+      </td>
+      <td align="center" width="140">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+      </td>
+      <td align="center" width="140">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+      </td>
+      <td align="center" width="140">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40" alt="FastAPI" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 ### Core Tech Stack:
 - Languages: Typescript, Javascript, Python, PHP
 - Frontend: React, Next.js, Svelte, HTMX, HTML, CSS, TailwindCSS
@@ -38,27 +64,7 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 - *Aug 16, 2024* - **[FastAPI as a Hypermedia Driven Application w/ HTMX & Jinja2Templates](https://medium.com/@strasbourgwebsolutions/fastapi-as-a-hypermedia-driven-application-w-htmx-jinja2templates-644c3bfa51d1)**
 - *Jan 21, 2023*  - **[FoodLabels App Technical Documentation VF](https://www.behance.net/gallery/176957559/Technical-Doc-VF-FreshLabels-App)**
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript" />
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js" />
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80" alt="React" />
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python" />
-      </td>
-      <td align="center" width="140">
-        <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="80" height="80" alt="FastAPI" />
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
