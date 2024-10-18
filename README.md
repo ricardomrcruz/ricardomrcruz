@@ -20,28 +20,28 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 <br>
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="140" style="border: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
       </td>
-      <td align="center" width="140">
+      <td align="center" width="140" style="border: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       </td>
-      <td align="center" width="140">
+      <td align="center" width="140" style="border: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
       </td>
-      <td align="center" width="140">
+      <td align="center" width="140" style="border: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       </td>
-      <td align="center" width="140">
+      <td align="center" width="140" style="border: none;">
         <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40" alt="FastAPI" />
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+
 
 ### Core Tech Stack:
 - Languages: Typescript, Javascript, Python, PHP
