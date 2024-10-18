@@ -38,25 +38,27 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 - *Aug 16, 2024* - **[FastAPI as a Hypermedia Driven Application w/ HTMX & Jinja2Templates](https://medium.com/@strasbourgwebsolutions/fastapi-as-a-hypermedia-driven-application-w-htmx-jinja2templates-644c3bfa51d1)**
 - *Jan 21, 2023*  - **[FoodLabels App Technical Documentation VF](https://www.behance.net/gallery/176957559/Technical-Doc-VF-FreshLabels-App)**
 
+<div align="center">
   <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="100%"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100%"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100%"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100%"/>
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" width="100%"/>
-    </td>
-  </tr>
-</table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="100%" alt="TypeScript" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100%" alt="Node.js" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100%" alt="React" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100%" alt="Python" />
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" width="100%" alt="FastAPI" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=ricardomrcruz)
