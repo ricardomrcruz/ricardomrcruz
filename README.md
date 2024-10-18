@@ -41,20 +41,20 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="100%" alt="TypeScript" />
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" width="110" height="40" alt="TypeScript" />
       </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="100%" alt="Node.js" />
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" width="110" height="40" alt="Node.js" />
       </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="100%" alt="React" />
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="110" height="40" alt="React" />
       </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100%" alt="Python" />
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="110" height="40" alt="Python" />
       </td>
-      <td align="center" width="96">
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" width="100%" alt="FastAPI" />
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" width="110" height="40" alt="FastAPI" />
       </td>
     </tr>
   </table>
