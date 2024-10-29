@@ -56,9 +56,9 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 
 
 
-<!-- <div align="center">
+ <div align="center">
   <div style="display: inline-flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 600px;">
-    <!-- Row 1 -->
+  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="40" height="40" alt="FastAPI" />
     <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" width="40" height="40" alt="Pydantic" />
@@ -70,7 +70,7 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" alt="Pytest" />
      </div>
-<!-- </div>
+ </div>
 <div align="center">
   <div style="display: inline-flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 600px;">
     
@@ -101,4 +101,4 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
     <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40" height="40" alt="OpenAI" />
   </div>
 </div>
--->
+
