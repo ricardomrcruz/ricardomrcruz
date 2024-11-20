@@ -46,6 +46,7 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 📧 strasbourgwebsolutions@gmail.com
 
 ### My latest articles
+- *Nov 19, 2024* - **[Mark3ts UX/UI Behance Study Case](https://www.behance.net/gallery/207935375/Mark3ts-SAAS-UXUI)**
 - *Aug 16, 2024* - **[FastAPI as a Hypermedia Driven Application w/ HTMX & Jinja2Templates](https://medium.com/@strasbourgwebsolutions/fastapi-as-a-hypermedia-driven-application-w-htmx-jinja2templates-644c3bfa51d1)**
 - *Jan 21, 2023*  - **[FoodLabels App Technical Documentation VF](https://www.behance.net/gallery/176957559/Technical-Doc-VF-FreshLabels-App)**
 
