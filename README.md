@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://strasbourgwebsolutions.fr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-strasbourgwebsolutions.fr-blue?style=for-the-badge&logo=google-chrome" alt="Website">
+    <img src="https://img.shields.io/badge/Website-strasbourgwebsolutions-blue?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/ricardomartinhocruz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
