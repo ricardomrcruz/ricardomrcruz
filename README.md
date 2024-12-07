@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGLQCGh6_V98Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732068334015?e=1737590400&v=beta&t=DQ5pc1zLTf08rUSN9BFpssbYW93acsab5jpHGA44xw0)
+![Banner](https://github.com/user-attachments/assets/093b578c-795f-44ed-9603-d59f22c468b1)
 
 <br>
 
