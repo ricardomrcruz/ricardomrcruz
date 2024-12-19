@@ -37,15 +37,13 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 - API: RESTful, GraphQL, HATEOAS, Hypermedia Driven
 - DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx, Caddy
 
-🎓 Finishing Bachelor's in Fullstack Application Development - Software Developer at WildCodeSchool France
-
-🔧 Current Project: 
--Developing a Python FastAPI + HTMX SaaS solution 
+🎓 Finishing Software Engineering Master's at CNAM École d'Ingénieurs
 
 🤝 Open for freelance opportunities, open source contributions, and innovative collaborations
 📧 strasbourgwebsolutions@gmail.com
 
 ### My latest articles
+- *Dec 18, 2024* - **[GreenFoot CO2 Calculator App and Mark3ts.io Technical Documentation VF](https://www.behance.net/gallery/215079523/Dossier-Projet-GreenFoot-Application-Mark3tsio-VF)**
 - *Nov 19, 2024* - **[Mark3ts UX/UI Behance Study Case](https://www.behance.net/gallery/207935375/Mark3ts-SAAS-UXUI)**
 - *Aug 16, 2024* - **[FastAPI as a Hypermedia Driven Application w/ HTMX & Jinja2Templates](https://medium.com/@strasbourgwebsolutions/fastapi-as-a-hypermedia-driven-application-w-htmx-jinja2templates-644c3bfa51d1)**
 - *Jan 21, 2023*  - **[FoodLabels App Technical Documentation VF](https://www.behance.net/gallery/176957559/Technical-Doc-VF-FreshLabels-App)**
