@@ -25,9 +25,7 @@
 
 <br>
 
-Software developer with solid experience in Node.js, React, Python, and PHP. Expertise in REST and GraphQL APIs, UI/UX prototyping, and full-stack projects. Proficient in DevOps practices including CI/CD automation, unit testing, debugging, and secure deployment.
-
-🌱 Currently available for permanent or temporary positions as a Fullstack Developer or a opportunity as a Software Engineer Intern
+Software developer and current master engineering student with solid past professional experience in Typescript Node.js, React, Python, and PHP. Expertise in architecture of REST, HATEOAS and, GraphQL APIs, UI/UX prototyping, and fullstack development. Proficient in DevOps practices including CI/CD test and migrations automation, unit and ui testing, debugging, and secure bare metal deployment.
 
 ### Core Tech Stack:
 - Languages: Typescript, Javascript, Python, PHP
@@ -36,8 +34,6 @@ Software developer with solid experience in Node.js, React, Python, and PHP. Exp
 - Data Structures: PostgreSQL, MongoDB, TypeORM, Prisma, SQLAlchemy, SQLModel, Pydantic
 - API: RESTful, GraphQL, HATEOAS, Hypermedia Driven
 - DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx, Caddy
-
-🎓 Finishing Software Engineering Master's at CNAM École d'Ingénieurs
 
 🤝 Open for freelance opportunities, open source contributions, and innovative collaborations
 📧 strasbourgwebsolutions@gmail.com
