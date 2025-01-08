@@ -28,12 +28,13 @@
 Software developer and current master engineering student with solid past professional experience in Typescript Node.js, React, Python, and PHP. Expertise in architecture of REST, HATEOAS and, GraphQL APIs, UI/UX prototyping, and fullstack development. Proficient in DevOps practices including CI/CD test and migrations automation, unit and ui testing, debugging, and secure bare metal deployment.
 
 ### Core Tech Stack:
-- Languages: Typescript, Javascript, Python, PHP
-- Frontend: React, Next.js, Svelte, HTMX, HTML, CSS, TailwindCSS
-- Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (OOP, MySql, Wordpress, Symfony)
-- Data Structures: PostgreSQL, MongoDB, TypeORM, Prisma, SQLAlchemy, SQLModel, Pydantic
-- API: RESTful, GraphQL, HATEOAS, Hypermedia Driven
-- DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx, Caddy
+- Languages: Typescript, Javascript, Python, PHP. Notions in C++, Java and Go.
+- Frontend: React, Next.js, HTMX, HTML, CSS, TailwindCSS, Sveltekit.
+- Backend: Node.js (Express, GraphQL), Python (FastAPI, Django, Flask), PHP (OOP, LAMP, Wordpress, Symfony).
+- Data Structures: PostgreSQL, MongoDB, TypeORM, TypeGraphql, Prisma, SQLAlchemy, SQLModel, Pydantic.
+- API: RESTful, GraphQL, HATEOAS, Hypermedia Driven.
+- DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx, Caddy.
+- Tests: Jest, Playwright, Pytest.
 
 🤝 Open for freelance opportunities, open source contributions, and innovative collaborations
 📧 strasbourgwebsolutions@gmail.com
