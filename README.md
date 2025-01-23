@@ -36,7 +36,7 @@ Software developer and current master engineering student with solid past profes
 - DevOps: Git, CI/CD, GitHub Actions, Docker, Nginx, Caddy.
 - Tests: Jest, Playwright, Pytest.
 
-🤝 Open for freelance opportunities, open source contributions, and innovative collaborations
+🤝 Open for open source contributions and innovative collaborations
 📧 strasbourgwebsolutions@gmail.com
 
 ### My latest articles
